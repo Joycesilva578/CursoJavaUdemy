@@ -1,2 +1,18 @@
-Java é uma lnguagem de programacao orientada a objetos
+Java é uma linguagem de programacao orientada a objetos
 Sua unidade logica basica é classe
+
+Em orientacao a objetos , funcoes em classes recebem o nome de metodos
+
+
+Classe contem atributos que é dados ou campos
+e classe contem metodos que é funcoes e operacoes
+
+objetos sao instacias da classes
+
+quando se usa this esta referenciando a usar o atributo da clase (do objeto) e nao parametro do metodo
+passar o proprio obejto como argumento na chamada de um metodo ou construtor
+
+construtor permitir ou obrigar que o objeto recebe dados
+
+um objeto nao deve expor nenhum atributo - private - , os atributos deve ser acessados por meio de get e set
+
