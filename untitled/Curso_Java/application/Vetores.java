@@ -1,6 +1,6 @@
 package application;
 
-import entities.ElementosVetores;
+import exercicios.ElementosVetores;
 
 import java.util.Locale;
 import java.util.Scanner;

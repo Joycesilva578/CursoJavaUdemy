@@ -1,4 +1,4 @@
-package entities;
+package exercicios;
 
 public class Account {
     private int number;

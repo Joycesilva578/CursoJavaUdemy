@@ -1,20 +1,20 @@
+package exercicios;
+
 import java.util.Scanner;
 
-public class ExercicioFor {
+public class ExercicioWhile {
     public static void main(String[] args) {
-
         Scanner sc = new Scanner(System.in);
 
-        int N = sc.nextInt();
+        int x = sc.nextInt();
 
         int soma = 0;
-        for (int i=0; i<N; i++){
-            int x = sc.nextInt();
+
+        while (x != 0){
             soma += x;
+            x = sc.nextInt();
         }
-        System.out.println(soma);
+        System.out.println("soma: " + soma);
         sc.close();
     }
-
-
 }

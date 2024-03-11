@@ -1,4 +1,4 @@
-package entities;
+package exercicios;
 
 public class Rent {
     private String name;
